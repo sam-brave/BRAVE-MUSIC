@@ -7,7 +7,7 @@ This bot is made by brave development . if you are facing any problem related to
 
 # INFO ABOUT BOT DEVELOPERS
 
- This bot is made ```ɃЯΛVΣ丶Sam🦋#5606``` & ```ɃЯΛVΣ丶Venom OPᴿᴬ 🍷#0022```.
+ This bot is made by ```ɃЯΛVΣ丶Sam🦋#5606``` & ```ɃЯΛVΣ丶Venom OPᴿᴬ 🍷#0022```.
  If you like this bot then try our others bots 
 .THE BOT NAME IS **RexZ** & **Legion**.
 
